@@ -41,7 +41,6 @@ An application that allows users to sign up, login, and write letters to “Sant
 •	Incorporated OmniAuth for Google signup and login.
 •	Incorporated a Ruby on Rails API backend with RESTful routes.
 •	Utilized BCRYPT to store users’ passwords.
-![image](https://user-images.githubusercontent.com/69265803/197898015-60beabcb-5211-428a-8f4c-5e2f9dc9fa57.png)
 
 
 <!--
